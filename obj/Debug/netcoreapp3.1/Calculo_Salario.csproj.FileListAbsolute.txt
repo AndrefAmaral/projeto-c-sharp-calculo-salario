@@ -1,0 +1,13 @@
+C:\dev\Calculo_Salario\bin\Debug\netcoreapp3.1\Calculo_Salario.exe
+C:\dev\Calculo_Salario\bin\Debug\netcoreapp3.1\Calculo_Salario.deps.json
+C:\dev\Calculo_Salario\bin\Debug\netcoreapp3.1\Calculo_Salario.runtimeconfig.json
+C:\dev\Calculo_Salario\bin\Debug\netcoreapp3.1\Calculo_Salario.runtimeconfig.dev.json
+C:\dev\Calculo_Salario\bin\Debug\netcoreapp3.1\Calculo_Salario.dll
+C:\dev\Calculo_Salario\bin\Debug\netcoreapp3.1\Calculo_Salario.pdb
+C:\dev\Calculo_Salario\obj\Debug\netcoreapp3.1\Calculo_Salario.csprojAssemblyReference.cache
+C:\dev\Calculo_Salario\obj\Debug\netcoreapp3.1\Calculo_Salario.AssemblyInfoInputs.cache
+C:\dev\Calculo_Salario\obj\Debug\netcoreapp3.1\Calculo_Salario.AssemblyInfo.cs
+C:\dev\Calculo_Salario\obj\Debug\netcoreapp3.1\Calculo_Salario.csproj.CoreCompileInputs.cache
+C:\dev\Calculo_Salario\obj\Debug\netcoreapp3.1\Calculo_Salario.dll
+C:\dev\Calculo_Salario\obj\Debug\netcoreapp3.1\Calculo_Salario.pdb
+C:\dev\Calculo_Salario\obj\Debug\netcoreapp3.1\Calculo_Salario.genruntimeconfig.cache
